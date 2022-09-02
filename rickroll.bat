@@ -1,6 +1,6 @@
 @ECHO OFF
 
-START "" https://www.youtube.com/watch?v=dQw4w9WgXcQ
+START "" https://www.youtube.com/watch?v=p7YXXieghto
 
 :rick
 
